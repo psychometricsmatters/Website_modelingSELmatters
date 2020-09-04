@@ -1,0 +1,19 @@
+---
+title: A proud QME graduate!
+author: Mireya
+date: '2020-09-03'
+slug: QME
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-09-03T17:22:56-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+On August 14, 2020 I gave my final presentation where my friends, family, and QME colleagues and friends came to show their support and hear my talk regarding my dissertation topic. In 25 minutes, I presented the most important findings of my 100+ page dissertation. In a 30 slide powerpoint, I argued for a paradigm to be used when measuring SEL constructs with psychometric models. The final oral defense was the safest place to share my work with my dissertation committee! In the end, I passed and officially graduated on August 31, 2020.
