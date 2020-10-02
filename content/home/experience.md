@@ -40,7 +40,35 @@ experience:
   company_url: ""
   date_end: ""
   date_start: "2020-08-31"
-  description: Build the Collaborative Statistical Center (CSC) that serves all students by providing statistical analyses resourcing and support to research teams in partnership with community groups to better understand ans analyze systemic racism and other social injustices.
+  description: Build the Collaborative Statistical Center (CSC) that serves about 5,000 students and faculty/staff by providing statistical analyses support and tools to contribute to the social justice algorithm.
   location: Minnesota
   title: Manager
+- company: CZI via University of Minnesota
+  company_url: ""
+  date_end: ""
+  date_start: "2020-06-06"
+  description: Collaborate with Chan Zuckerberg Initiative (CZI) in the mapping project in developing a toolkit to assess overall measures that pertain to the well-being of school ecosystems upon school re-opening and beyond.
+  location: Minnesota
+  title: Consultant
+- company: Research Methodology Consulting Center (RMCC) at University of Minnesota
+  company_url: ""
+  date_end: "2020-08-31"
+  date_start: "2019-08-06"
+  description: Provide advice to graduate students and faculty about methodology and statistical analysis.
+  location: Minnesota
+  title: Graduate Research Assistant
+- company: Research Methodology Consulting Center (RMCC) at University of Minnesota
+  company_url: ""
+  date_end: "2020-08-31"
+  date_start: "2019-08-06"
+  description: Provide advice to graduate students and faculty about methodology and statistical analysis.
+  location: Minnesota
+  title: Graduate Research Assistant
+- company: Metropolitan State University
+  company_url: ""
+  date_end: "2011-08-15"
+  date_start: "2017-08-31"
+  description: Teach Statistics I (STAT 201) in a traditional classroom setting, hybrid-blended, asynchronous online format.
+  location: Minnesota
+  title: Community Faculty
 ---
