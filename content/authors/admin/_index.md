@@ -35,4 +35,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Mireya Smith is a psychometrician at Psychometrics Matters. Research interests include validity (specifically measurement invariance), using psychometric models to measure social and emotional learning (SEL; complex and multifaceted) constructs, and the intersectionality of machine learning and measurement. She proposes in using the "Paradigm for SEL assessment"" that will lead to meaningful, useful, appropriate, and fair score interpretation and use.
+Mireya Smith is trained as a psychometrician/methodologist. Research interests include validity (specifically measurement invariance), using psychometric models to measure social and emotional learning (SEL; complex and multifaceted) constructs, and the intersectionality of machine learning and measurement. She proposes in using the "Paradigm for SEL assessment"" that will lead to meaningful, useful, appropriate, and fair score interpretation and use.
