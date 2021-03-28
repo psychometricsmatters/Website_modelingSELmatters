@@ -28,7 +28,7 @@ social:
   link: https://github.com/psychometricsmatters
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/mireya-smith-82062868/
+  link: https://www.linkedin.com/in/mireya-smith-ph-d-82062868/
 superuser: true
 title: Mireya Smith, Ph.D.
 user_groups:
