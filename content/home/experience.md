@@ -35,12 +35,19 @@ experience:
     * Modeling
     * Interpreting models and results
   location: Minnesota
+  title: Researcher/Methodologist
+- company: Amplify Education Inc
+  company_url: "amplify.com"
+  date_end: ""
+  date_start: "2021-03-08"
+  description: Psychometric work
+  location: New York
   title: Psychometrician
 - company: Saint Catherine University
   company_url: ""
-  date_end: ""
+  date_end: "2021-03-05"
   date_start: "2020-08-31"
-  description: Build the Collaborative Statistical Center (CSC) that serves about 5,000 students and faculty/staff by providing statistical analyses support and tools to contribute to the social justice algorithm.
+  description: Build the Just Data Lab (JDL) hosted in the Data Science Institute that serves about 5,000 students and faculty/staff by providing statistical analyses support and tools to contribute to the social justice algorithm.
   location: Minnesota
   title: Manager
 - company: CZI via University of Minnesota
