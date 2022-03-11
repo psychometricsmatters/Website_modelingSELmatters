@@ -14,7 +14,11 @@ baseurl = "http://www.modelingselmatters.org/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "© Mireya Smith, 2020"
+<<<<<<< HEAD
+copyright = "© Mireya Smith, 2022"
+=======
+copyright = "© Mireya Smith, 2021"
+>>>>>>> c0fda1c252bf43a0c32e3d50a513204b73ba64cc
 
 ############################
 ## Advanced options below ##
