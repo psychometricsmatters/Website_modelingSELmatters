@@ -25,7 +25,11 @@ experience:
   date_end: ''
   date_start: '2021-08-23'
 <<<<<<< HEAD
+<<<<<<< HEAD
   description: Statistical modeling, visualizing data, using various coding languages
+=======
+  description: Statistical modeling in R
+>>>>>>> c0fda1c252bf43a0c32e3d50a513204b73ba64cc
 =======
   description: Statistical modeling in R
 >>>>>>> c0fda1c252bf43a0c32e3d50a513204b73ba64cc
